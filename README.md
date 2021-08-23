@@ -2,7 +2,7 @@
 
 O desafio conta com um projeto de restaurante, onde interações como a criação de cardápios, pedidos e mesas, a listagem de pedidos classificados pela tempo de criação e autenticações de cozinheiro, funcionário e cliente.
 
-Os vídeos a seguir foram cortados devido ao sobrecarregamente da minha máquina, por conta das peças serem meio antigas e ruins para o desenvolvimento de sistemas, foi preciço remover partes em que o carregamento da página demora 40 segundos ou mais.
+Os vídeos a seguir foram cortados devido ao sobrecarregamente da minha máquina, por conta das peças serem meio antigas e ruins para o desenvolvimento de sistemas, foi preciso remover partes em que o carregamento da página demora 40 segundos ou mais.
 
 Segue o projeto com mais informações: 
 
